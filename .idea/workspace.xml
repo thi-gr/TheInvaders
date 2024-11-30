@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TheInvaders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enemy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enemy4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Enemy5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/EnemyShot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/L1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/L2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/L3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level1_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level2_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Level3_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/PlayerShot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/enemyShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/entityFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/entityMediator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codes/playerShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pa8TtFx2YY8l8O9tNQBzBQmOBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets" />
+      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\codes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TheInvaders" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="" />
+      <created>1732992837544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732992837544</updated>
+    </task>
+    <servers />
+  </component>
+</project>
