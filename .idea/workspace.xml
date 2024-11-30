@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Menu -&gt; Background, Fontes, Título,Opções, Música">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">
