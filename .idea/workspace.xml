@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TheInvaders.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Enemy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Enemy4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Enemy5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/EnemyShot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/L1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/L2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/L3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level1_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level2_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Level3_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/PlayerShot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/enemyShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/entity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/entityFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/entityMediator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codes/playerShot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Menu -&gt; Background, Fontes, Título,Opções, Música" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thi-gr/TheInvaders",
+    "accountId": "31fdaab2-a4cd-4926-987d-9a90bf5d07d0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -138,6 +88,27 @@
       <option name="presentableId" value="Default" />
       <updated>1732992837544</updated>
     </task>
+    <task id="LOCAL-00001" summary="Menu -&gt; Background, Fontes, Título,Opções, Música">
+      <option name="closed" value="true" />
+      <created>1732995186621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732995186621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Menu -&gt; Background, Fontes, Título,Opções, Música">
+      <option name="closed" value="true" />
+      <created>1732995383001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732995383001</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Menu -&gt; Background, Fontes, Título,Opções, Música" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu -&gt; Background, Fontes, Título,Opções, Música" />
   </component>
 </project>
