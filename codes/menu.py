@@ -21,7 +21,7 @@ class Menu:
             self.menu_text(200, 'The Invaders', C_BLACK, ((WIN_WIDTH/2), 150))
 
             for i in range(len(MENU_OPTIONS)):
-                self.menu_options(80, MENU_OPTIONS[i], C_BLACK, ((WIN_WIDTH / 2), 400 + 90 * i))
+                self.menu_options(70, MENU_OPTIONS[i], C_BLACK, ((WIN_WIDTH / 2), 400 + 80 * i))
 
             pygame.display.flip()
 
