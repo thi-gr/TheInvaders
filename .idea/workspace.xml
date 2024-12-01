@@ -6,6 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Menu -&gt; Background, Fontes, Título,Opções, Música">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level1_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/PlayerShot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/background.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/entityFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/menu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +66,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets\images" />
+      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets\musics" />
       <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets" />
       <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\codes" />
     </key>
@@ -118,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732995728163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Menu -&gt; Background, Fontes, Título,Opções, Música">
+      <option name="closed" value="true" />
+      <created>1732997082101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732997082101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
