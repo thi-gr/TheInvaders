@@ -4,15 +4,16 @@ from abc import ABC, abstractmethod
 
 import pygame.image
 
-from codes.Const import WIN_WIDTH, WIN_HEIGHT
+from codes.Const import ENTITY_HEALTH
 
 
 class Entity(ABC):
     def __init__(self, name: str, position: tuple):
         self.name = name
-        self.surf = pygame.transform.scale(pygame.image.load('./assets/images/' + name + '.png'), (WIN_WIDTH, WIN_HEIGHT))
+        self.surf = pygame.image.load('./assets/images/' + name + '.png').convert_alpha()
         self.rect = self.surf.get_rect(left=position[0], top=position[1])
         self.speed = 0
+        self.health = ENTITY_HEALTH[self.name]
 
     @abstractmethod
     def move(self, ):
