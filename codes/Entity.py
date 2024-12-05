@@ -10,7 +10,7 @@ from codes.Const import WIN_WIDTH, WIN_HEIGHT
 class Entity(ABC):
     def __init__(self, name: str, position: tuple):
         self.name = name
-        self.surf = pygame.transform.scale(pygame.image.load('./assets/images/' + name + '.png'), (WIN_WIDTH, WIN_HEIGHT))
+        self.surf = pygame.image.load('./assets/images/' + name + '.png').convert_alpha()
         self.rect = self.surf.get_rect(left=position[0], top=position[1])
         self.speed = 0
 
