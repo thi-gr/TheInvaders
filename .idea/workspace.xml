@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Criação Player e Inimigos">
+    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Criação do Mediador de Entidades&#10;Destruição de inimigos ao final da tela">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/EnemyShot.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/EntityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityMediator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/entityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityMediator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/enemyShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EnemyShot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/playerShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/PlayerShot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,13 +152,22 @@
       <option name="project" value="LOCAL" />
       <updated>1733368002947</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Criação do Mediador de Entidades&#10;Destruição de inimigos ao final da tela">
+      <option name="closed" value="true" />
+      <created>1733369998834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733369998834</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Menu -&gt; Background, Fontes, Título,Opções, Música" />
     <MESSAGE value="Criação Menu Interativo&#10;Criação da Classe Abstrata: entity.py&#10;Criação da Fábrica de Entidades: entityFactory.py&#10;Criação do Background do Level1 com efeito Parallax" />
     <MESSAGE value="Criação Player e Inimigos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação Player e Inimigos" />
+    <MESSAGE value="Criação do Mediador de Entidades&#10;Destruição de inimigos ao final da tela" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do Mediador de Entidades&#10;Destruição de inimigos ao final da tela" />
   </component>
 </project>

@@ -17,15 +17,22 @@ ENTITY_SPEED = {
     'Level1-5': 5,
     'Level1-6': 6,
     'Player1': 13,
+    'Player1Shot': 5,
     'Player2': 15,
+    'Player2Shot': 5,
     'Enemy1': 1,
-    'Enemy2': 2,
-    'Enemy3': 3,
-    'Enemy4': 4,
-    'Enemy5': 5,
+    'Enemy1Shot': 5,
+    'Enemy2': 1.5,
+    'Enemy2Shot': 5,
+    'Enemy3': 2,
+    'Enemy3Shot': 5,
+    'Enemy4': 2,
+    'Enemy4Shot': 5,
+    'Enemy5': 3,
+    'Enemy5Shot': 5,
 }
 
-ENTITY_HEALTH ={
+ENTITY_HEALTH = {
     'Level1-0': 999,
     'Level1-1': 999,
     'Level1-2': 999,
@@ -47,6 +54,14 @@ ENTITY_HEALTH ={
     'Enemy4Shot': 1,
     'Enemy5': 50,
     'Enemy5Shot': 1,
+}
+
+ENTITY_SHOT_DELAY = {
+    'Player1': 30,
+    'Player2': 30,
+    'Enemy1': 150,
+    'Enemy2': 130,
+
 }
 
 EVENT_ENEMY = pygame.USEREVENT + 1
