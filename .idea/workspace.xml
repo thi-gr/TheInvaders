@@ -4,29 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Criação Menu Interativo&#10;Criação da Classe Abstrata: entity.py&#10;Criação da Fábrica de Entidades: entityFactory.py&#10;Criação do Background do Level1 com efeito Parallax">
+    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Criação Player e Inimigos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Enemy5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/L1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/L2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/L3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Level1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Level2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Level3.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/background.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Background.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Enemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/entityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityFactory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/level.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Level.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/Enemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Enemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/entityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityMediator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,12 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733019953643</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Criação Player e Inimigos">
+      <option name="closed" value="true" />
+      <created>1733368002947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733368002947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Menu -&gt; Background, Fontes, Título,Opções, Música" />
     <MESSAGE value="Criação Menu Interativo&#10;Criação da Classe Abstrata: entity.py&#10;Criação da Fábrica de Entidades: entityFactory.py&#10;Criação do Background do Level1 com efeito Parallax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação Menu Interativo&#10;Criação da Classe Abstrata: entity.py&#10;Criação da Fábrica de Entidades: entityFactory.py&#10;Criação do Background do Level1 com efeito Parallax" />
+    <MESSAGE value="Criação Player e Inimigos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação Player e Inimigos" />
   </component>
 </project>
