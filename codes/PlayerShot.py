@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from codes.Entity import Entity
 from codes.Const import ENTITY_SPEED
+from codes.Entity import Entity
 
 
 class PlayerShot(Entity):

@@ -4,7 +4,7 @@ import pygame.image
 from pygame import Surface, Rect
 from pygame.font import Font
 
-from codes.Const import WIN_WIDTH, WIN_HEIGHT, C_BLACK, MENU_OPTIONS, C_YELLOW
+from codes.Const import WIN_WIDTH, C_BLACK, MENU_OPTIONS, C_YELLOW
 
 
 class Menu:
@@ -21,7 +21,7 @@ class Menu:
         while True:
             # Desenho das imagens
             self.window.blit(source=self.surf, dest=self.rect)
-            self.menu_text(200, 'The Invaders', C_BLACK, ((WIN_WIDTH/2), 150))
+            self.menu_text(200, 'The Invaders', C_BLACK, ((WIN_WIDTH / 2), 150))
 
             for i in range(len(MENU_OPTIONS)):
                 if i == menu_option:

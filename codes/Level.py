@@ -7,7 +7,7 @@ import pygame
 from pygame import Surface, Rect
 from pygame.font import Font
 
-from codes.Const import C_WHITE, WIN_HEIGHT, MENU_OPTIONS, EVENT_ENEMY, SPAWN_TIME
+from codes.Const import C_WHITE, WIN_HEIGHT, MENU_OPTIONS, EVENT_ENEMY, SPAWN_TIME, C_BLUE, C_RED
 from codes.Enemy import Enemy
 from codes.Entity import Entity
 from codes.EntityFactory import EntityFactory
@@ -36,6 +36,10 @@ class Level:
         while True:
             clock.tick(60)
             for ent in self.entity_list:
+                if ent.name == 'Player1':
+                    self.level_text(14, f'Blue Sorcerer - Health:{ent.health} | Score: {ent.score}', C_BLUE, (10, 25))
+                if ent.name == 'Player2':
+                    self.level_text(14, f'Red Sorcerer - Health:{ent.health} | Score: {ent.score}', C_RED, (10, 45))
                 self.window.blit(source=ent.surf, dest=ent.rect)
                 ent.move()
                 if isinstance(ent, (Player, Enemy)):
@@ -51,7 +55,7 @@ class Level:
                     choice = random.choice(('Enemy1', 'Enemy2'))
                     self.entity_list.append(EntityFactory.get_entity(choice))
 
-            # Print de acompanhamento - apagar depois
+            # Tela de acompanhamento (apagar depois)
             self.level_text(14, f'{self.name} - TimeOut: {self.timeout / 1000 :.1f}s', C_WHITE, (10, 5))
             self.level_text(14, f'fps: {clock.get_fps() :.0f}', C_WHITE, (10, WIN_HEIGHT - 35))
             self.level_text(14, f'entidades: {len(self.entity_list)}', C_WHITE, (10, WIN_HEIGHT - 20))
