@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Criação das classes de tiros (player e inimigos)">
+    <list default="true" id="bb9a15c4-b0a6-4f94-97fe-1d3230d0bc3a" name="Changes" comment="Colisões, Score e HUD">
+      <change afterPath="$PROJECT_DIR$/codes/Score.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level2_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/Level2-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Level3_7.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/EnemyShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EnemyShot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/Entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/EntityMediator.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityMediator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codes/EntityFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/EntityFactory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Level.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Level.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codes/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codes/PlayerShot.py" beforeDir="false" afterPath="$PROJECT_DIR$/codes/PlayerShot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +65,15 @@
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\codes" />
       <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets\images" />
       <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets\musics" />
       <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\assets" />
-      <recent name="C:\Users\thi_g\PycharmProjects\TheInvaders\codes" />
     </key>
   </component>
   <component name="RunManager">
@@ -176,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733373958343</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Colisões, Score e HUD">
+      <option name="closed" value="true" />
+      <created>1733429581587</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733429581587</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +216,7 @@
     <MESSAGE value="Criação Player e Inimigos" />
     <MESSAGE value="Criação do Mediador de Entidades&#10;Destruição de inimigos ao final da tela" />
     <MESSAGE value="Criação das classes de tiros (player e inimigos)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação das classes de tiros (player e inimigos)" />
+    <MESSAGE value="Colisões, Score e HUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colisões, Score e HUD" />
   </component>
 </project>

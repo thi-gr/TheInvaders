@@ -31,7 +31,7 @@ class Menu:
 
             pygame.display.flip()
 
-            # Análise de todos os eventos
+            # Análise Eventos
             for evento in pygame.event.get():
                 if evento.type == pygame.QUIT:
                     pygame.quit()
@@ -50,6 +50,9 @@ class Menu:
                         else:
                             menu_option = len(MENU_OPTIONS) - 1
 
+                    if evento.key == pygame.K_ESCAPE:
+                        menu_option = len(MENU_OPTIONS) - 1
+B
                     if evento.key == pygame.K_RETURN:
                         return MENU_OPTIONS[menu_option]
 
